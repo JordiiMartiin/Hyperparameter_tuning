@@ -1,2 +1,2 @@
 # Hyperparameter_tuning
-Random Forest optimization project with Optuna. Hyperparameters are explored adaptively using Bayesian optimization, and each configuration is evaluated via cross-validation to select the set that maximizes model accuracy while minimizing overfitting.
+Random Forest optimization with Optuna, hyperparameters explored via Bayesian optimization, each configuration evaluated with cross-validation to maximize accuracy and reduce overfitting
